@@ -1,3 +1,4 @@
 Ahoy hoy globe!
 Checking new message tab from using
-git config --global core.editor "code --wait"Adding to hello_world.txt so that I can commit to git.
+git config --global core.editor "code --wait"
+Adding to hello_world.txt so that I can commit to git.
